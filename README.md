@@ -7,7 +7,7 @@ Several people asked me what I meant by ‘competition’ for WiFi traffic. I’
 
 ### Background 
 
-Unlike a wired connection, where the only traffic on a wire is what’s transmitted by the two ends, radio waves are shared – radio signals spread in all directions and anything within range can her them. That means if two stations transmit at once, they interfere with each, and neither signal gets through. So how is WiFi designed to work with this restriction? 
+Unlike a wired connection, where the only traffic on a wire is what’s transmitted by the two ends, radio waves are shared – radio signals spread in all directions and anything within range can hear them. That means if two stations transmit at once, they interfere with each, and neither signal gets through. So how is WiFi designed to work with this restriction? 
 
 An analogy might be a room with many people in it all trying to have conversations. In general, there are three techniques to help:
 1. Don’t talk all at once; take turns (_timing_).
